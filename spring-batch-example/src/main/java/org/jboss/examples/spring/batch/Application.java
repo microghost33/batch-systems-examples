@@ -26,7 +26,7 @@ import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * Created by ceposta 
+ * Created by test2
  * <a href="http://christianposta.com/blog>http://christianposta.com/blog</a>.
  */
 // could use @SpringBootApplication in place of these 3
